@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dhanush-2110
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding ,designing
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on IDK
+- 💞️ I’m looking to collaborate 
 - 📫 Contact-7019048393
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: I love building websites
 tech hub:
 ## 🌐 Socials:
 
