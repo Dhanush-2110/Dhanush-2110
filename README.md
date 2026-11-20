@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Dhanush banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/main/assets/banner.png" alt="Dhanush banner" width="100%"/>
 
 <h1 align="center">Hello, I'm Dhanush! ^._.^</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=560&lines=AIML+%7C+Web+Dev+%7C+Cloud;B.Tech+CSE+(AIML)+%40+Amity+Bengaluru;Not+all+those+who+wander+are+lost)](https://github.com/Dhanush-2110)
+<a href="https://github.com/Dhanush-2110"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=560&lines=AIML+%7C+Web+Dev+%7C+Cloud;B.Tech+CSE+(AIML)+%40+Amity+Bengaluru;Not+all+those+who+wander+are+lost" alt="Typing SVG"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Instagram-a855f7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+---
 ---
 
 ### 👋 About
