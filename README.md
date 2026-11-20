@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/main/assets/banner.png" alt="Dhanush banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/main/assets/cat-laptop.png" alt="Dhanush banner" width="100%"/>
 
 <h1 align="center">Hello, I'm Dhanush! ^._.^</h1>
 
