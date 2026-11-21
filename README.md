@@ -44,7 +44,7 @@
 - 🏭 Sew Ops, a garment factory production monitoring app
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanush-2110&theme=onedark&no-frame=true&no-bg=true&column=7"/>
+<div align="center"><img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/main/assets/trophies.svg" width="100%"/></div>
 
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/output/github-snake-dark.svg"/>
