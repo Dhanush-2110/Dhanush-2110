@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/Dhanush-2110/Dhanush-2110/output/github-snake-dark.svg"/>
 
 <div align="center">
-<img src="assets/caty.png" width="120"/>
+<img src="assets/catys.png" width="120"/>
 
 `build · learn · improve`
 </div>
